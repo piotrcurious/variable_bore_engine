@@ -2,7 +2,7 @@
 a mix of freevalve with variable bore engine 
 Created by BingAI 
 
-Actually other methods of varying the valve lift can be used, f.e. the hydraulic multiplayer as in fiat Twinair engines .
+Actually other methods of varying the valve lift can be used, f.e. the hydraulic multiplier as in fiat Twinair engines .
 
 Besides properties described below, 
 variable bore and stroke engine can use various types of fuel, combining low and high octane fuels.
